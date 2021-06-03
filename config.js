@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Tạm chấp nhận, Vậy nhá <33',
     btnNo: 'Không,không bao giờ :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu mình Bông <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu mình Bông. <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thương nhiều lắm luôn đấy<<<3',
     mess: 'Anh biết mà 🥰. Yêu Bông nhiều lắm luôn😘😘',
