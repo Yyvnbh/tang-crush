@@ -1,5 +1,5 @@
 const  CONFIG  = {
-    introTitle : Nà TUýt
+    introTitle : Này   TUýt
     introDesc :Trái đất vốn là thường
     Mà  sao  Tuýt  cứ  đi  nhầm  đường
     Lạc vào tim Quang lẻ loi
