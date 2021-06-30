@@ -1,7 +1,7 @@
-const CONFIG = {
-    introTitle : 'Tuyết à!' ,
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+const  CONFIG  = {
+    introTitle : Này TUýt
+    introDesc : Thường       lệ       vốn       trái     dẤt
+    Mà  sao  em  cứ  đi  nhầm  đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
